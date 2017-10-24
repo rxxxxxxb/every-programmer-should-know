@@ -191,26 +191,44 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [InterviewBit](https://www.interviewbit.com/)
 
 
-### Where To Look For Further Info
--How to clarify and write down what the customers wants ("requirements"). This is an art in and of itself. If you can do this, your programming job will be much better.
--How to estimate and project plan. People will ask you for an estimate, be prepared.
--How to constructively review other people's code.
--Design patterns. This is a big one. But don't overzealously use them for the sake of it.
--Learn the difference between a bug, issue and feature requests
--Keep up to date with frameworks/libraries. You don't have to use them, but you need to know what they do and their pro's/con's. If something seems way too hard then there's probably (hopefully) a much easier way of doing things.
--How to document complicated algorithms in a flowchart or just write it out in english. Don't expect that someone will spend 2 days trying to reverse engineer your code.
--How to organise your code structure so that anyone else can understand it
--How to comment your code
--How to write unit tests
--Know what's going on under the hood. Eg calling a web service - what's it actually doing?
--How to abstract away logic into classes.
--How to refactor code
--Learn the gist of quite a few programming languages. You'd be surprised what you can learn from other areas
--How to tell other programmers what to write.
--How to explain to management what you're doing and why.
--Like Peter said, how to debug. I agree with everything he says, real programmers debug, not just guess.
--How to work with maniacs. There's a lot of them out there.
--How to GET STUFF DONE. All the theory in the world won't help you if you can't get stuff done.
+### Extra
+- How to clarify and write down what the customers wants ("requirements"). This is an art in and of itself. If you can do this, your programming job will be much better.
+
+- How to estimate and project plan. People will ask you for an estimate, be prepared.
+
+- How to constructively review other people's code.
+
+- Design patterns. This is a big one. But don't overzealously use them for the sake of it.
+
+- Learn the difference between a bug, issue and feature requests
+
+- Keep up to date with frameworks/libraries. You don't have to use them, but you need to know what they do and their pro's/con's. If something seems way too hard then there's probably (hopefully) a much easier way of doing things.
+
+- How to document complicated algorithms in a flowchart or just write it out in english. Don't expect that someone will spend 2 days trying to reverse engineer your code.
+
+- How to organise your code structure so that anyone else can understand it
+
+- How to comment your code
+
+- How to write unit tests
+
+- Know what's going on under the hood. Eg calling a web service - what's it actually doing?
+
+- How to abstract away logic into classes.
+
+- How to refactor code
+
+- Learn the gist of quite a few programming languages. You'd be surprised what you can learn from other areas
+
+- How to tell other programmers what to write.
+
+- How to explain to management what you're doing and why.
+
+- Like Peter said, how to debug. I agree with everything he says, real programmers debug, not just guess.
+
+- How to work with maniacs. There's a lot of them out there.
+
+- How to GET STUFF DONE. All the theory in the world won't help you if you can't get stuff done.
 
 
 
