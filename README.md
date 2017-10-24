@@ -191,7 +191,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [InterviewBit](https://www.interviewbit.com/)
 
 
-### Extra
+### Some extra concepts you should know 
 - How to clarify and write down what the customers wants ("requirements"). This is an art in and of itself. If you can do this, your programming job will be much better.
 
 - How to estimate and project plan. People will ask you for an estimate, be prepared.
